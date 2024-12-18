@@ -1,3 +1,4 @@
 # c-programming
-first in c
-.Author-pralad parajuli
+first in c.
+<br>
+Author-pralad parajuli
